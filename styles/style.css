@@ -189,6 +189,7 @@ body {
     .container__links__link {
         font-size: .8rem;
         width: 30%;
+        padding: 1rem;
     }
 
     .container__image {
