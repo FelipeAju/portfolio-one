@@ -5,7 +5,7 @@ Este portfólio foi criado e modificado nas aulas de Html, Css e Git/GitHub do c
 
 ### Imagens das páginas para desktop
 
-<img src="https://github.com/FelipeAju/portfolio-one/assets/131827906/a173b3aa-36ff-4acd-843d-61e4bafd1f45" width="18.75rem">
+<img src="https://github.com/FelipeAju/portfolio-one/assets/131827906/a173b3aa-36ff-4acd-843d-61e4bafd1f45" width="8.75rem">
 
 ![img-portfolio-one-home-desktop](https://github.com/FelipeAju/portfolio-one/assets/131827906/a173b3aa-36ff-4acd-843d-61e4bafd1f45)
 
