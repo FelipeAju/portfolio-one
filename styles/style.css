@@ -160,7 +160,7 @@ body {
 @media (max-width: 1000px) {
     .header {
         margin: 0 30% 0 30%;
-        padding: 8% 0 2%;
+        padding: 8% 0 1%;
     }
 
     .header__menu {
@@ -171,14 +171,22 @@ body {
     .container {
         flex-direction: column-reverse;
         padding: 5%;
-        gap: 3rem;
+        gap: 2rem;
     } 
 
     .container__content {
         width: auto;
     }
 
+    .container__content__title {
+        font-size: 1.5rem;
+    }
+
+    .container__content__text {
+        font-size: 1rem;
+    }
+
     .container__image {
-        width: 70%;
+        width: 60%;
     }
 }
