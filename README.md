@@ -12,6 +12,6 @@ Este portfólio foi criado e modificado nas aulas de Html, Css e Git/GitHub do c
 
 ### Imagens dos layouts para mobile
 
-<img src="https://github.com/FelipeAju/portfolio-one/assets/131827906/5f3c11f0-9c7b-4d29-bc50-0c84c19dd20b" width="400px">
+<img src="https://github.com/FelipeAju/portfolio-one/assets/131827906/5f3c11f0-9c7b-4d29-bc50-0c84c19dd20b" width="300px">
 
-<img src="https://github.com/FelipeAju/portfolio-one/assets/131827906/bf3d4be7-88de-4163-b44a-656a0bd378a5" width="450px">
+<img src="https://github.com/FelipeAju/portfolio-one/assets/131827906/bf3d4be7-88de-4163-b44a-656a0bd378a5" width="300px">
